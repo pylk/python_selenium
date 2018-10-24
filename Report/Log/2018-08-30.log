@@ -1,0 +1,51 @@
+2018-08-30 12:18:37,012 - Log.py - debug - DEBUG - debug message
+2018-08-30 12:20:21,086 - Log.py - Log.py- 10 - DEBUG - debug message
+2018-08-30 12:26:53,492 - Log.py - Log.py- 43 - DEBUG - debug message
+2018-08-30 15:22:34,834 - Log.py - Log.py- 43 - DEBUG - debug message樊韬
+2018-08-30 15:23:16,533 - Log.py - Log.py- 43 - DEBUG - debug message樊韬
+2018-08-30 15:24:40,686 - Log.py - Log.py- 43 - DEBUG - debug message���
+2018-08-30 15:26:56,976 - Log.py - Log.py- 49 - WARNING - 第一条测试用例失败
+2018-08-30 15:26:56,976 - Log.py - Log.py- 52 - ERROR - 第一条测试用例失败
+2018-08-30 15:26:56,977 - Log.py - Log.py- 55 - CRITICAL - 第一条测试用例失败
+2018-08-30 15:31:01,180 - C:/Users/fantao/PycharmProjects/AutoMncg/Log/Log.py - Log.py - Log.py- 43 - DEBUG - debug message樊韬
+2018-08-30 15:31:35,048 - C:\Users\fantao\PycharmProjects\AutoMncg\Log\Log.py - Log.py - Log.py- 49 - WARNING - 第一条测试用例失败
+2018-08-30 15:31:35,048 - C:\Users\fantao\PycharmProjects\AutoMncg\Log\Log.py - Log.py - Log.py- 52 - ERROR - 第一条测试用例失败
+2018-08-30 15:31:35,049 - C:\Users\fantao\PycharmProjects\AutoMncg\Log\Log.py - Log.py - Log.py- 55 - CRITICAL - 第一条测试用例失败
+2018-08-30 15:34:01,424 - C:\Users\fantao\PycharmProjects\AutoMncg\Log\Log.py - Log.py - Log.py- 43 - DEBUG - 开始执行用例
+2018-08-30 15:34:05,059 - C:\Users\fantao\PycharmProjects\AutoMncg\Log\Log.py - Log.py - Log.py- 52 - ERROR - 第一条测试用例失败
+2018-08-30 15:34:05,059 - C:\Users\fantao\PycharmProjects\AutoMncg\Log\Log.py - Log.py - Log.py- 55 - CRITICAL - 第一条测试用例失败
+2018-08-30 15:34:25,390 - C:\Users\fantao\PycharmProjects\AutoMncg\Log\Log.py - Log.py - Log.py- 43 - DEBUG - 开始执行用例
+2018-08-30 15:34:29,132 - C:\Users\fantao\PycharmProjects\AutoMncg\Log\Log.py - Log.py - Log.py- 52 - ERROR - 第一条测试用例失败
+2018-08-30 15:34:29,133 - C:\Users\fantao\PycharmProjects\AutoMncg\Log\Log.py - Log.py - Log.py- 55 - CRITICAL - 第一条测试用例失败
+2018-08-30 15:35:52,044 - DEBUG：debug message樊韬
+2018-08-30 16:14:42,232 - INFO：你好
+2018-08-30 16:20:04,492 - TC_login.py - setUp 16 INFO：开始执行用例
+2018-08-30 16:20:11,915 - TC_login.py - testLogin01 21 DEBUG：第一条测试用例通过
+2018-08-30 16:23:07,698 - Log.py - <module>>46>INFO：你好
+2018-08-30 16:24:04,014 - TC_login.py - setUp>16>INFO：开始执行用例
+2018-08-30 16:24:11,137 - TC_login.py - testLogin01>21>DEBUG：第一条测试用例通过
+2018-08-30 16:40:38,188 - TC_login.py - setUp > 16 > INFO：开始执行用例
+2018-08-30 16:40:45,237 - TC_login.py - testLogin01 > 25 > ERROR：第一条测试用例失败
+2018-08-30 16:43:34,141 - TC_login.py - setUp > 16 > INFO：开始执行用例
+2018-08-30 16:43:41,119 - TC_login.py - testLogin01 > 21 > INFO：1
+2018-08-30 16:47:37,832 - TC_login.py - setUp > 16 > INFO：开始执行用例
+2018-08-30 16:47:44,794 - TC_login.py - testLogin01 > 25 > ERROR：第一条测试用例失败
+2018-08-30 16:49:45,844 - TC_login.py - setUp > 16 > INFO：开始执行用例
+2018-08-30 16:49:52,675 - TC_login.py - testLogin01 > 22 > INFO：successful
+2018-08-30 16:50:35,245 - TC_login.py - setUp > 16 > INFO：开始执行用例
+2018-08-30 16:50:42,264 - TC_login.py - testLogin01 > 22 > INFO：第一条用例successful
+2018-08-30 17:02:22,883 - TC_login.py - setUp > 16 > INFO：开始执行用例
+2018-08-30 17:02:30,001 - TC_login.py - testLogin01 > 22 > INFO：第一条用例：login2018-08-30 17:02:22
+2018-08-30 18:21:58,193 - TC_login.py - setUp > 16 > INFO：开始执行用例
+2018-08-30 18:22:05,253 - TC_login.py - testLogin01 > 29 > ERROR：第一条测试用例失败
+2018-08-30 18:23:36,985 - TC_login.py - setUp > 16 > INFO：开始执行用例
+2018-08-30 18:23:43,940 - TC_login.py - testLogin01 > 29 > ERROR：第一条测试用例失败
+2018-08-30 18:24:59,287 - TC_login.py - setUp > 16 > INFO：开始执行用例
+2018-08-30 18:25:06,131 - TC_login.py - testLogin01 > 31 > ERROR：第一条测试用例失败
+2018-08-30 18:26:11,880 - TC_login.py - setUp > 17 > INFO：开始执行用例
+2018-08-30 18:26:21,737 - TC_login.py - testLogin01 > 33 > ERROR：第一条测试用例失败
+2018-08-30 18:41:23,340 - TC_login.py - setUp > 17 > INFO：开始执行用例
+2018-08-30 18:41:34,032 - TC_login.py - testLogin01 > 32 > ERROR：第一条测试用例失败
+2018-08-30 18:42:29,308 - TC_login.py - testLogin01 > 31 > ERROR：第一条测试用例失败
+2018-08-30 18:43:59,850 - TC_login.py - testLogin01 > 31 > ERROR：第一条测试用例失败
+2018-08-30 18:44:45,618 - TC_login.py - testLogin01 > 32 > ERROR：第一条测试用例失败

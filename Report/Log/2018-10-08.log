@@ -1,0 +1,52 @@
+2018-10-08 16:47:41,885 - TC_login.py - testLogin01 > 44 > ERROR：第一条用例：开始时间：2018-10-08 16:47:36结束时间：持续时间：测试结果：
+2018-10-08 16:48:01,618 - TC_login.py - testLogin01 > 38 > INFO：第一条用例：开始时间：2018-10-08 16:47:47结束时间：2018-10-08 16:48:01持续时间：0:00:14测试结果：successful
+2018-10-08 16:48:01,618 - TC_login.py - testLogin01 > 38 > INFO：第一条用例：开始时间：2018-10-08 16:47:47结束时间：2018-10-08 16:48:01持续时间：0:00:14测试结果：successful
+2018-10-08 16:58:33,398 - TC_login.py - testLogin01 > 44 > ERROR：第一条用例：开始时间：2018-10-08 16:58:28结束时间：持续时间：测试结果：
+2018-10-08 16:58:44,241 - TC_login.py - testLogin01 > 44 > ERROR：第一条用例：开始时间：2018-10-08 16:58:38结束时间：持续时间：测试结果：
+2018-10-08 16:58:44,241 - TC_login.py - testLogin01 > 44 > ERROR：第一条用例：开始时间：2018-10-08 16:58:38结束时间：持续时间：测试结果：
+
+2018-10-08 21:25:48,977 - LoginHandle.py - send_user > 14 > INFO：输入用户名15013695516
+2018-10-08 21:25:48,977 - LoginHandle.py - send_user > 14 > INFO：输入用户名15013695516
+2018-10-08 21:25:48,980 - FindElement.py - get_element > 17 > INFO：定位方式:id--->定位值:login_id
+2018-10-08 21:25:48,980 - FindElement.py - get_element > 17 > INFO：定位方式:id--->定位值:login_id
+2018-10-08 21:25:49,075 - LoginHandle.py - send_passwd > 18 > INFO：输入密码123456
+2018-10-08 21:25:49,075 - LoginHandle.py - send_passwd > 18 > INFO：输入密码123456
+2018-10-08 21:25:49,082 - FindElement.py - get_element > 17 > INFO：定位方式:id--->定位值:password
+2018-10-08 21:25:49,082 - FindElement.py - get_element > 17 > INFO：定位方式:id--->定位值:password
+2018-10-08 21:25:49,130 - LoginHandle.py - send_tickt > 22 > INFO：输入验证码7777
+2018-10-08 21:25:49,130 - LoginHandle.py - send_tickt > 22 > INFO：输入验证码7777
+2018-10-08 21:25:49,132 - FindElement.py - get_element > 17 > INFO：定位方式:id--->定位值:ticket_image_value
+2018-10-08 21:25:49,132 - FindElement.py - get_element > 17 > INFO：定位方式:id--->定位值:ticket_image_value
+2018-10-08 21:25:49,180 - FindElement.py - get_element > 17 > INFO：定位方式:id--->定位值:login
+2018-10-08 21:25:49,180 - FindElement.py - get_element > 17 > INFO：定位方式:id--->定位值:login
+2018-10-08 21:27:54,315 - FindElement.py - get_element > 17 > INFO：定位方式:id--->定位值:login_id
+2018-10-08 21:27:54,315 - FindElement.py - get_element > 17 > INFO：定位方式:id--->定位值:login_id
+2018-10-08 21:27:54,412 - LoginHandle.py - send_passwd > 18 > INFO：输入密码123456
+2018-10-08 21:27:54,412 - LoginHandle.py - send_passwd > 18 > INFO：输入密码123456
+2018-10-08 21:27:54,417 - FindElement.py - get_element > 17 > INFO：定位方式:id--->定位值:password
+2018-10-08 21:27:54,417 - FindElement.py - get_element > 17 > INFO：定位方式:id--->定位值:password
+2018-10-08 21:27:54,474 - LoginHandle.py - send_tickt > 22 > INFO：输入验证码7777
+2018-10-08 21:27:54,474 - LoginHandle.py - send_tickt > 22 > INFO：输入验证码7777
+2018-10-08 21:27:54,477 - FindElement.py - get_element > 17 > INFO：定位方式:id--->定位值:ticket_image_value
+2018-10-08 21:27:54,477 - FindElement.py - get_element > 17 > INFO：定位方式:id--->定位值:ticket_image_value
+2018-10-08 21:27:54,535 - FindElement.py - get_element > 17 > INFO：定位方式:id--->定位值:login
+2018-10-08 21:27:54,535 - FindElement.py - get_element > 17 > INFO：定位方式:id--->定位值:login
+2018-10-08 21:31:33,872 - LoginHandle.py - send_user > 14 > INFO：输入用户名15013695516
+2018-10-08 21:31:33,872 - LoginHandle.py - send_user > 14 > INFO：输入用户名15013695516
+2018-10-08 21:31:33,974 - LoginHandle.py - send_passwd > 18 > INFO：输入密码123456
+2018-10-08 21:31:33,974 - LoginHandle.py - send_passwd > 18 > INFO：输入密码123456
+2018-10-08 21:31:34,018 - LoginHandle.py - send_tickt > 22 > INFO：输入验证码7777
+2018-10-08 21:31:34,018 - LoginHandle.py - send_tickt > 22 > INFO：输入验证码7777
+2018-10-08 21:32:19,073 - Log.py - <module> > 46 > INFO：你好k
+2018-10-08 21:33:59,769 - LoginHandle.py - send_user > 14 > INFO：输入用户名15013695512
+2018-10-08 21:33:59,769 - LoginHandle.py - send_user > 14 > INFO：输入用户名15013695512
+2018-10-08 21:33:59,868 - LoginHandle.py - send_passwd > 18 > INFO：输入密码123456
+2018-10-08 21:33:59,868 - LoginHandle.py - send_passwd > 18 > INFO：输入密码123456
+2018-10-08 21:34:49,652 - LoginHandle.py - send_user > 14 > INFO：输入用户名15013695512
+2018-10-08 21:34:49,652 - LoginHandle.py - send_user > 14 > INFO：输入用户名15013695512
+2018-10-08 21:52:08,721 - LoginHandle.py - send_user > 14 > INFO：输入用户名15013695516
+2018-10-08 21:52:08,721 - LoginHandle.py - send_user > 14 > INFO：输入用户名15013695516
+2018-10-08 21:52:08,879 - LoginHandle.py - send_passwd > 18 > INFO：输入密码123456
+2018-10-08 21:52:08,879 - LoginHandle.py - send_passwd > 18 > INFO：输入密码123456
+2018-10-08 21:52:08,927 - LoginHandle.py - send_tickt > 22 > INFO：输入验证码7777
+2018-10-08 21:52:08,927 - LoginHandle.py - send_tickt > 22 > INFO：输入验证码7777
